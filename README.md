@@ -25,6 +25,7 @@ FACEKI is a Facial Recognition authentication platform & KYC. We create safer, m
 
 - More details about Identity Verification 🔗 https://faceki.com/
 - More details about Biometric Authentication 🔗  https://faceki.com/biometric-authentication/
+- For inquiries and contact https://faceki.com/contacts/ 
 
 
 
