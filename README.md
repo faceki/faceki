@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://faceki.com/wp-content/uploads/2021/08/veriArtboard-16.png " alt="Liveliness biometric">
+<img src="https://faceki.com/wp-content/uploads/2017/08/fk_footer.jpg" alt="Liveliness biometric">
 
 **INTRODUCTION**
 
