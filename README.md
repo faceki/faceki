@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img> https://faceki.com/wp-content/uploads/2021/08/veriArtboard-16.png </img>
+<img src="https://faceki.com/wp-content/uploads/2021/08/veriArtboard-16.png " alt="Liveliness biometric">
 
 **faceki/faceki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
