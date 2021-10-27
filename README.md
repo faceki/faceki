@@ -18,7 +18,13 @@ FACEKI is a Facial Recognition authentication platform & KYC. We create safer, m
  <br>
 
 **API Documentation** Our technical guides will assist you with implementing, updating and navigating Faceki products.
-- 🔗 Link https://faceki.docs.apiary.io/#introduction/overview
+- 🔗 API Documentation Link https://faceki.docs.apiary.io/#introduction/overview
+
+- Register Our FREE Identity Verification Package 🔗  https://faceki.com/identity-verification-prices/
+- Register Our FREE Biometric Authentication Package 🔗   https://faceki.com/biometric-authentication-prices/
+
+- More details about Identity Verification 🔗 https://faceki.com/
+- More details about Biometric Authentication 🔗  https://faceki.com/biometric-authentication/
 
 
 
