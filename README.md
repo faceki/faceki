@@ -5,7 +5,7 @@
 
 **Overview**
 
-FACEKI is a Facial Recognition authentication platform & KYC. We create safer, more accessible user experiences for all. It's a highly secure cloud-based cross-devices technology. Which can be integrated easily with any online platforms, websites, and apps to provide them with a powerful facial recognition login capabilities. FACEKI aim is to make login to accounts seamless, simple and more secure than ever.
+FACEKI is a Facial Recognition authentication platform & KYC,Free Identity verification companies, We create safer, more accessible user experiences for all. It's a highly secure cloud-based cross-devices technology. Which can be integrated easily with any online platforms, websites, and apps to provide them with a powerful facial recognition login capabilities. FACEKI aim is to make login to accounts seamless, simple and more secure than ever.
 
  <br>
 **Note** : We have provided sample APP_KEY, APP_ID, and image URLs in the sandbox. Please replace with your keys / images during development.
