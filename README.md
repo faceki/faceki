@@ -18,17 +18,17 @@ FACEKI is a Facial Recognition authentication platform & KYC,Free Identity verif
  <br>
 <b>Help and Support</b>
 
- We'd love to hear feedback from you and we're also here to help if you have any challenges. We have lots of answers to popular queries in our knowledge base or you can ask us a question. Failing that, feel free to [contact our tech team](mailto:support@Faceki.com?subject=I have a question about your APIs).
+ We'd love to hear feedback from you and we're also here to help if you have any challenges. We have lots of answers to popular queries in our knowledge base or you can ask us a question. Failing that, feel free to [contact our tech team](mailto:hello@Faceki.com?subject=I have a question about your APIs).
  <br>
 
 **API Documentation** Our technical guides will assist you with implementing, updating and navigating Faceki products.
-- 🔗 API Documentation Link https://faceki.docs.apiary.io/#introduction/overview
+- 🔗 API Documentation Link KYC V2** https://kycdocv2.faceki.com/  
+- 🔗 API Documentation Link Bio V2** https://biov2.faceki.com/ 
 
-- Register Our FREE Identity Verification Package 🔗  https://faceki.com/identity-verification-prices/
-- Register Our FREE Biometric Authentication Package 🔗   https://faceki.com/biometric-authentication-prices/
+- Register Our Identity Verification Package 🔗  https://apps.faceki.com/pricing 
+- Register Our Biometric Authentication Package 🔗  https://apps.faceki.com/pricing 
 
 - More details about Identity Verification 🔗 https://faceki.com/
-- More details about Biometric Authentication 🔗  https://faceki.com/biometric-authentication/
 - For inquiries and contact https://faceki.com/contacts/ 
 
 
