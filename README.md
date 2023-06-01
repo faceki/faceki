@@ -1,9 +1,11 @@
 ### Hi there 👋
-<img src="https://faceki.com/wp-content/uploads/2017/08/fk_footer.jpg" alt="Liveliness biometric">
+<img src="https://faceki.com/oldwp/wp-content/uploads/2017/08/fk_footer.jpg" alt="Liveliness biometric">
 
 **INTRODUCTION**
 
-**Follow our documentation llink** https://docs.faceki.com/ 
+**Follow our documentation llink KYC V2** https://kycdocv2.faceki.com/  
+**Follow our documentation llink Biometric V2** https://biov2.faceki.com/ 
+
 
 **Overview**
 
