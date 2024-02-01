@@ -1,4 +1,4 @@
-# Welcome to FACEKI BLAZE 3.0 - eKYC Documentation
+# Welcome to FACEKI BLAZE 3.0 - eKYC & Facial Recognition System
 
 ## Introduction
 
